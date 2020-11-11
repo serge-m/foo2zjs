@@ -18,7 +18,7 @@
 #*
 #* Authors: Rick Richardson <rick.richardson@comcast.net>
 
-VERSION='$Id: foo2zjs-wrapper.in,v 1.154 2012/02/24 01:25:15 rick Exp $'
+VERSION='$Id: foo2zjs-wrapper.in,v 1.155 2017/12/02 19:41:57 rick Exp $'
 
 #
 # Printer Notes:
@@ -39,6 +39,8 @@ VERSION='$Id: foo2zjs-wrapper.in,v 1.154 2012/02/24 01:25:15 rick Exp $'
 # HP LaserJet P2035	- Same as 2200 DL, plus needs -P -z1 -L0
 # HP LaserJet P2035n	- Same as 2200 DL, plus needs -P -z1 -L0
 #
+# HP LaserJet Pro M12a	- Same as 2200 DL, plus needs -P -z2 -L0
+# HP LaserJet Pro M12w	- Same as 2200 DL, plus needs -P -z2 -L0
 # HP LaserJet Pro P1102	- Same as 2200 DL, plus needs -P -z2 -L0
 # HP LaserJet Pro P1102w- Same as 2200 DL, plus needs -P -z2 -L0
 # HP LaserJet Pro P1566	- Same as 2200 DL, plus needs -P -z2 -L0
